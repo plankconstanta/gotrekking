@@ -1,0 +1,50 @@
+.homelink {
+    display: none;    
+}
+
+.about{
+    padding: 0 30px;
+}
+
+.about.us h6{
+    background: url('../css/img/IconsOther/Group%209.svg') 50% 0 no-repeat;
+}
+.about.purpose h6{
+    background: url('../css/img/IconsOther/Group%2049.svg') 50% 0 no-repeat;
+}
+.about.what h6{
+    background: url('../css/img/IconsOther/Group%2051.svg') 50% 0 no-repeat;
+}
+
+.about h6{
+    background-size: auto auto;
+    padding-top: 60px;
+}
+
+
+
+.photos a{
+    text-decoration: none;
+}
+.photos.madeira{
+    background: url('../css/img/madeira/areeiro_ruivo/ruivo.jpg') 100% 100% / cover;
+}
+.photos.tirol{
+    background: url('../css/img/south_tirol/fedaiipass.jpg') 100% 100% / cover;
+}
+.photos.tenerife{
+    background: url('../css/img/tenerife/tenerife.jpg') 100% 100% / cover;
+}
+
+.blog-anons .text h5 {
+    text-align: left;
+}
+.blog-anons .photos h5 {
+    font-family: NexaRustBig, sans-serif;
+    line-height: 300px;
+    background-position: 50% 40%;
+    background-size: 90px auto;
+    padding-top: 5px;
+}
+
+

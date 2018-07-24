@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.css" />
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />   
+</head>
+<body style="margin:0;">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js"></script>
+    <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+     
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+       
+      
+      
+     <div id="map" style="height: 500px; width: 100%;"></div>  
+      
+      
+      
+      <script type="application/javascript">
+        
+          
+          
+          var params = window
+    .location
+    .search
+    .replace('?','')
+    .split('&')
+    .reduce(
+        function(p,e){
+            var a = e.split('=');
+            p[ decodeURIComponent(a[0])] = decodeURIComponent(a[1]);
+            return p;
+        },
+        {}
+    );
+
+          var src = params['src'];
+          var lat = 32.74246 ;
+          var lng = -16.99014;
+          var zoom = 11;
+          
+          if (src == 'portela') {
+              src = '/gpx/madeira/ribeiro-frio-madeira-portugal.gpx';
+              lat = 32.73862204;
+              lng = -16.85743545;
+              zoom = 14;
+          } else if (src == 'lourenco') {
+            src = '/gpx/madeira/SaoLourenco.gpx';
+            lat = 32.7462221;
+            lng = -16.68822758;
+            zoom = 15;
+          } else if (src == 'fontes') {
+            src = '/gpx/madeira/25quellen.gpx';
+            lat = 32.75864558;
+            lng = -17.13258591;
+            zoom = 15;
+          } else if (src == 'caldeirao') {
+            src = '/gpx/madeira/caldeiraoVerde&Inferno.gpx'
+            lat = 32.77676091;
+            lng = -16.92487564;
+            zoom = 14;
+           } else if (src == 'ruivo') {
+            src = '/gpx/madeira/Ruivo-aiero.gpx'
+            lat = 32.74656326;
+            lng = -16.93468307;
+            zoom = 14;
+          } else if (src == 'madeira') {
+            src = ''
+            lat = 32.74246;
+            lng = -16.99014;
+            zoom = 11;
+          } else {
+              src = '';
+          }
+          
+          
+          
+          
+          var mymap = L.map('map').setView([lat, lng], zoom);
+          
+L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: 'Map data &copy; <a href="http://www.osm.org">OpenStreetMap</a>'
+}).addTo(mymap);
+          
+          mymap.addControl(new L.Control.Fullscreen());
+          
+          if (src) {
+            omnivore.gpx(src).addTo(mymap);
+          }
+          
+          
+          
+      </script>
+  </body>
+</html>

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400i');
+
+
+@font-face{
+font-family: Lato;
+src: url('../css/fonts/lato/lato-regular-webfont.woff2') format('woff2'),
+
+url('../css/fonts/lato/lato-regular-webfont.woff') format('woff'),
+
+url('../css/fonts/lato/lato-regular-webfont.ttf') format('truetype');
+}
+
+
+@font-face{
+
+font-family: NexaRustBig;
+
+src: url('../css/fonts/nexarust/nexarustslab-blackshadow01-webfont.woff2') format('woff2'),
+
+url('../css/fonts/nexarust/nexarustslab-blackshadow01-webfont.woff') format('woff');
+}
+
+
+@font-face{
+
+font-family: NexaRustIta;
+
+src: url('../css/fonts/nexarust/nexarustscriptl-0-webfont.woff2') format('woff2'),
+
+url('/css/fonts/nexarust/nexarustscriptl-0-webfont.woff') format('woff');
+}
+
+
+@font-face{
+
+font-family: AlphaEcho;
+
+src: url('../css/fonts/alphaecho/alpha_echo-webfont.woff') format('woff');
+}
+
+
+@font-face{
+
+font-family: Kawak;
+
+src: url('/css/fonts/kawak/UKIJDiK.woff') format('woff');
+}
+
+
+@font-face{
+
+font-family: '28_Days_Later_Cyr';
+
+src: url('../css/fonts/utf8/28_Days_Later_Cyr.ttf') format('ttf');
+}
+
+
+
+

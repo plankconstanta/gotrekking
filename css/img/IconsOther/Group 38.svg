@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="49px" height="34px" viewBox="0 0 49 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 38</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-24.000000, -37.000000)" stroke="#231F20">
+            <g id="Group-38" transform="translate(25.000000, 38.000000)">
+                <g id="Page-1">
+                    <g>
+                        <g id="Group-38">
+                            <rect id="Rectangle-path" x="0.0442352941" y="0.203125" width="46.765" height="31.453125"></rect>
+                            <rect id="Rectangle-path" x="2.91952941" y="2.69325" width="41.1305294" height="26.27075"></rect>
+                            <ellipse id="Oval" cx="10.9122941" cy="9.209375" rx="2.18135294" ry="2.16975"></ellipse>
+                            <ellipse id="Oval" cx="22.8585882" cy="20.767625" rx="2.18135294" ry="2.16975"></ellipse>
+                            <ellipse id="Oval" cx="31.5052059" cy="12.54925" rx="2.18135294" ry="2.16975"></ellipse>
+                            <polyline id="Shape" points="12.4536176 10.72875 12.4536176 10.7425 21.1762647 19.405"></polyline>
+                            <path d="M44.0542059,21.01375 L33.3147059,13.7675" id="Shape"></path>
+                            <path d="M29.9403824,14.07 L24.4939118,19.35" id="Shape"></path>
+                            <path d="M9.30185294,10.64625 L2.91538235,16.3525" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

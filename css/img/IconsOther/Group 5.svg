@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="34px" viewBox="0 0 60 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-18.000000, -36.000000)">
+            <g id="Group-5" transform="translate(19.000000, 36.000000)">
+                <g id="Page-1">
+                    <g>
+                        <g id="Group-5">
+                            <path d="M6.55058824,27.7464878 L6.55058824,2.38 C6.55058824,1.46780488 7.31823529,0.721463415 8.25647059,0.721463415 L50.3397353,0.721463415 C51.2779706,0.721463415 52.0456176,1.46780488 52.0456176,2.38 L52.0456176,27.7464878" id="Shape" stroke="#231F20"></path>
+                            <rect id="Rectangle-path" stroke="#231F20" x="9.396" y="3.6222439" width="39.7086765" height="21.9034634"></rect>
+                            <ellipse id="Oval" fill="#231F20" cx="29.1185588" cy="2.12209756" rx="0.416235294" ry="0.404682927"></ellipse>
+                            <rect id="Rectangle-path" fill="#231F20" transform="translate(45.429038, 4.984014) rotate(44.983794) translate(-45.429038, -4.984014) " x="43.5156639" y="4.48402048" width="3.82625758" height="0.767065845"></rect>
+                            <rect id="Rectangle-path" fill="#231F20" transform="translate(43.918482, 6.245707) rotate(45.000000) translate(-43.918482, -6.245707) " x="40.2265612" y="5.74570657" width="7.38384095" height="0.766236554"></rect>
+                            <polygon id="Shape" fill="#231F20" points="45.8737353 11.5284878 37.8791176 3.7582439 38.4403529 3.21756098 46.4332647 10.9869756"></polygon>
+                            <path d="M57.6937941,30.1090732 C57.6937941,30.5651707 57.3099706,30.9383415 56.8408529,30.9383415 L1.0875,30.9383415 C0.618382353,30.9383415 0.234558824,30.5651707 0.234558824,30.1090732 L0.234558824,28.9539024 C0.234558824,28.4978049 0.618382353,28.1246341 1.0875,28.1246341 L56.8408529,28.1246341 C57.3099706,28.1246341 57.6937941,28.4978049 57.6937941,28.9539024 L57.6937941,30.1090732 L57.6937941,30.1090732 Z" id="Shape" stroke="#231F20"></path>
+                            <path d="M0.716470588,30.8098049 L3.43394118,32.5993659" id="Shape" stroke="#231F20"></path>
+                            <path d="M3.17038235,32.6424878 L54.5617941,32.6424878" id="Shape" stroke="#231F20"></path>
+                            <path d="M54.2530294,32.7046829 L56.9722059,30.9159512" id="Shape" stroke="#231F20"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

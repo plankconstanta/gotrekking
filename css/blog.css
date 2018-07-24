@@ -1,0 +1,170 @@
+.container.header.madeira {
+    background: url(../css/img/madeira/portela/madeira-10.jpg) 100% 100% no-repeat;
+}
+.container.header.portela {
+    background: url(../css/img/madeira/portela/madeira-10.jpg) 100% 100% no-repeat;
+}
+.container.header.saolorenco {
+    background: url(../css/img/madeira/sao_lourenco/sao_lourenco.jpg) 100% 100% no-repeat;
+}
+.container.header.fontes {
+    background: url('..//css/img/madeira/25fontes/6.jpg') 100% 100% no-repeat;
+    background-size: cover;
+}
+.container.header.caldeirao {
+    background: url(../css/img/madeira/caldeirao/0.jpg) 100% 100% no-repeat;
+    background-size: cover;
+}
+.container.header.encumeada {
+    background: url(../css/img/madeira/encumeada/0.jpg) 100% 100% no-repeat;
+    background-size: cover;
+}
+.container.header.areeiro {
+    background: url(../css/img/madeira/areeiro_ruivo/ruivo.jpg) 100% 100% no-repeat;
+    background-size: cover;
+}
+
+
+.blog {
+    padding: 0 20px;
+}
+.blog p:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+ul.track-links li{
+    list-style: disc;
+}
+
+
+ul.tracks li {
+    background: url('../css/img/mountain-306236_6401.png') 40% 30% no-repeat;
+    background-size: 50px auto;
+    padding-top: 50px;
+}
+ul.tracks {
+   margin-left: 10%;
+}
+
+ul.tracks li a {
+    display: block;
+    clear: both;
+}
+ul.tracks li span {
+    font-size: smaller;
+    color: #aaa;
+    margin-right: 10px;
+}
+ul.tracks .distance {
+}
+ul.tracks .one-way {
+    background: url(../css/img/ico/right-arrow.png) 100% no-repeat;
+    background-size: cover;
+}
+ul.tracks img.double-way {
+    background: url(../css/img/ico/sort.png) 100% no-repeat;
+    background-size: cover;
+}
+ul.tracks img.round-way {
+    background: url(../css/img/ico/icons8-restart-50.png) 100% no-repeat;
+    background-size: cover;
+}
+ul.tracks img.waterfall {
+    background: url(../css/img/ico/icons8-waterfall-50.png) 100% no-repeat;
+    background-size: cover;
+}
+ul.tracks .tunel {
+    background: url(../css/img/ico/icons8-restart-50.png) 100% no-repeat;
+    background-size: cover;
+}
+ul.tracks .lake {
+    background: url(../css/img/ico/icons8-sea-waves-50.png) 100% no-repeat;
+    background-size: cover;
+}
+
+ul.tracks img {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: none;
+}
+
+/*ul.tracks img.waterfall{
+    background: url(../css/img/ico/icons8-waterfall-50.png) 100% no-repeat;
+    background-size: cover;
+}
+ul.tracks img.double-way{
+    background: url(../css/img/ico/sort.png) 100% no-repeat;
+    background-size: cover;
+}
+ul.tracks img.tunel{
+    background: url(../css/img/ico/icons8-sea-waves-50.png) 100% no-repeat;
+    background-size: cover;
+}
+*/
+
+.track-info{
+    padding: 30px 30px 0;
+    text-align: center;
+}
+.track-info h6 {
+    margin-bottom: 0;
+    font-size: 1em;
+    color: #aaa;
+}
+.track-info p {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.track-info.distance h6{
+    background: url('../css/img/IconsOther/Group%2049.svg') 50% 0 no-repeat;
+}
+.track-info.dificulty h6{
+    background: url('../css/img/IconsOther/Group%2050.svg') 50% 0 no-repeat;
+}
+.track-info.time h6{
+    background: url('../css/img/IconsOther/Group%2053.svg') 50% 0 no-repeat;
+}
+.track-info.alt h6{
+    background: url('../css/img/IconsOther/Group%2038.svg') 50% 0 no-repeat;
+}
+.track-info.start h6{
+    background: url('../css/img/IconsOther/Group%209.svg') 50% 0 no-repeat;
+}
+.track-info.end h6{
+    background: url('../css/img/IconsOther/Group%209.svg') 50% 0 no-repeat;
+}
+.track-info h6{
+    background-size: auto auto;
+    padding-top: 60px;
+}
+.track-info .note{
+    font-size: smaller;
+}
+
+
+.photos.portela {
+    background: url('../css/img/madeira/portela/madeira-10.jpg') 100% 100% no-repeat;
+}
+.photos.saolorenco {
+    background: url('../css/img/madeira/saolorence/UyZMzrPXwBA.jpg') 100% 100% no-repeat;
+}
+
+.sourses {
+    font-size: 10pt;
+    color: #999;
+    margin: 30px;
+}
+
+ul.app li:first-child {
+    margin-bottom: 57px;
+}
+ul.app li img {
+    float:left;
+    padding-right: 10px;
+}
+ul.app li a {
+    font-size: 9pt;
+}
+

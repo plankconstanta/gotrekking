@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="47px" viewBox="0 0 11 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 39</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-42.000000, -33.000000)">
+            <g id="Group-39" transform="translate(42.000000, 34.000000)">
+                <g id="Page-1">
+                    <g>
+                        <g id="Group-39">
+                            <polyline id="Shape" stroke="#231F20" points="0.838666667 37.2267778 5.32666667 45.3521667 10.2466667 37.2267778"></polyline>
+                            <polyline id="Shape" stroke="#231F20" points="1.816 38.7038889 3.53466667 37.0568333 4.93733333 38.4023333"></polyline>
+                            <polyline id="Shape" stroke="#231F20" points="5.96133333 38.3793333 7.33866667 37.0593889 8.99733333 38.6489444"></polyline>
+                            <rect id="Rectangle-path" fill="#231F20" transform="translate(5.396151, 38.868273) rotate(45.871059) translate(-5.396151, -38.868273) " x="4.6987928" y="38.2178613" width="1.39471585" height="1.30082365"></rect>
+                            <rect id="Rectangle-path" fill="#231F20" transform="translate(5.396151, 38.868273) rotate(45.871059) translate(-5.396151, -38.868273) " x="4.6987928" y="38.2178613" width="1.39471585" height="1.30082365"></rect>
+                            <rect id="Rectangle-path" fill="#231F20" transform="translate(6.037837, 38.308681) rotate(47.646530) translate(-6.037837, -38.308681) " x="5.36983918" y="37.6589334" width="1.33599512" height="1.29949525"></rect>
+                            <path d="M10.1466667,5.40627778 L10.1466667,8.92016667 L0.884,8.92016667 L0.884,5.40627778 C0.884,2.6335 2.96,0.397388889 5.50933333,0.397388889 C6.79066667,0.397388889 7.95333333,0.958333333 8.78533333,1.86555556 C9.63333333,2.77405556 10.1466667,4.02627778 10.1466667,5.40627778 Z" id="Shape" stroke="#231F20"></path>
+                            <path d="M1.004,11.4718889 L9.56,11.4718889" id="Shape" stroke="#231F20"></path>
+                            <path d="M1.11466667,13.9213889 L9.67066667,13.9213889" id="Shape" stroke="#231F20"></path>
+                            <path d="M3.37866667,41.6389444 L7.35866667,41.6389444" id="Shape" stroke="#231F20"></path>
+                            <path d="M0.901333333,37.5257778 L0.901333333,8.06533333" id="Shape" stroke="#231F20"></path>
+                            <path d="M10.1626667,37.5858333 L10.1626667,9.44916667" id="Shape" stroke="#231F20"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
